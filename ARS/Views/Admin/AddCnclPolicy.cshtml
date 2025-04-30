@@ -1,0 +1,44 @@
+﻿@model CancellationPolicy
+@{
+    ViewData["Title"] = "AddCnclPolicy";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div id="layoutSidenav_content">
+    <main>
+        <div class="container-fluid px-4">
+            <div class="card-header">
+                <h3 class="text-center font-weight-light my-4">Add Cancellation Policy</h3>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="number" placeholder="Enter MinDaysBefore" asp-for="MinDaysBefore" />
+                                <label asp-for="MinDaysBefore">Min Days Before</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="number" placeholder="Enter MaxDaysBefore" asp-for="MaxDaysBefore" />
+                                <label asp-for="MaxDaysBefore">Max Days Before</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="number" placeholder="Enter RefundPercent" asp-for="RefundPercent" />
+                                <label asp-for="RefundPercent">Refund Percent</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4 mb-0">
+                        <div class="d-grid"><button type="submit" class="btn btn-primary btn-block">Add Cancellation Policy</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</div>

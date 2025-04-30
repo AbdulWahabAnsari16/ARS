@@ -1,0 +1,78 @@
+﻿@model FlightSchedule
+@{
+    ViewData["Title"] = "EditFltSchedule";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div id="layoutSidenav_content">
+    <main>
+        <div class="container-fluid px-4">
+            <div class="card-header">
+                <h3 class="text-center font-weight-light my-4">Edit Flight Schedule</h3>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <input type="hidden" asp-for="ScheduleID"/>
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <select asp-for="FlightId" asp-items="@ViewBag.flights" class="form-select mt-2">
+                                    <option>Select a Flight</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <select asp-for="DepartureAirportId" asp-items="@ViewBag.Airports" class="form-select mt-2">
+                                    <option>Select a Departure Airport</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <select asp-for="ArrivalAirportId" asp-items="@ViewBag.Airports" class="form-select mt-2">
+                                    <option>Select a Arrival Airport</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="datetime-local" placeholder="Enter Departure DateTime" asp-for="DepartureDateTime" />
+                                <label asp-for="DepartureDateTime">Departure DateTime</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="datetime-local" placeholder="Enter Arrival DateTime" asp-for="ArrivalDateTime" />
+                                <label asp-for="ArrivalDateTime">Arrival DateTime</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <select asp-for="ClassId" asp-items="@ViewBag.Classes" class="form-select mt-2">
+                                    <option>Select a Class</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="number" placeholder="Enter Seats Available" asp-for="SeatsAvailable" />
+                                <label asp-for="SeatsAvailable">Seats Available</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4 mb-0">
+                        <div class="d-grid"><button type="submit" class="btn btn-primary btn-block">Edit FltSchedule</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</div>

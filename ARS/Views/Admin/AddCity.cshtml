@@ -1,0 +1,44 @@
+﻿@model City
+@{
+    ViewData["Title"] = "AddCity";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    .msg {
+        color: green;
+    }
+</style>
+
+<div id="layoutSidenav_content">
+    <main>
+        <div class="container-fluid px-4">
+            <div class="card-header">
+                <h3 class="text-center font-weight-light my-4">Add City</h3>
+            </div>
+            <div class="card-body">
+                <h4 class="msg">@ViewBag.msg</h4>
+                <form method="post">
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="text" placeholder="Enter City Name" asp-for="Name" />
+                                <label asp-for="Name">City Name</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="text" placeholder="Enter Country Name" asp-for="Country" />
+                                <label asp-for="Country">Country Name</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4 mb-0">
+                        <div class="d-grid"><button type="submit" class="btn btn-primary btn-block">Add City</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</div>
