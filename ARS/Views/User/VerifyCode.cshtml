@@ -1,4 +1,4 @@
-﻿@model User
+﻿@model verificationCode
 @{
     Layout = null;
 }
@@ -167,17 +167,12 @@
     <div class="overlay"></div>
     <div class="container">
         <div class="logo"><h1>Travelista</h1></div>
-        <div class="title"><h2>Login</h2></div>
+        <div class="title"><h2>Verify</h2></div>
 
         <form method="post">
             <div class="input-group">
-                <label for="login-email">Email Address</label>
-                <input type="email" asp-for="Email" placeholder="you@example.com" required>
-            </div>
-
-            <div class="input-group">
-                <label for="login-password">Password</label>
-                <input type="password" asp-for="Password" placeholder="******" required>
+                <label for="login-email">Verify Code</label>
+                <input type="text" asp-for="vCode" placeholder="code" required>
             </div>
 
             @if (!string.IsNullOrEmpty(ViewBag.err as string))
@@ -187,16 +182,12 @@
                 </div>
             }
 
-            <p class="fpass">
-                <a asp-controller="User" asp-action="VerifyEmail">Forgot password?</a>
-            </p>
-
-            <button type="submit" class="btn">Log In</button>
+            <button type="submit" class="btn">Verify Code</button>
         </form>
 
         <p class="footer-text">
-            Don't have an account?
-            <a asp-controller="User" asp-action="SignUp">Sign Up</a>
+            Already have an account?
+            <a asp-controller="User" asp-action="Login">Log In</a>
         </p>
     </div>
 </body>

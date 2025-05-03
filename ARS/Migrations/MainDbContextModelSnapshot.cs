@@ -523,6 +523,23 @@ namespace ARS.Migrations
                     b.ToTable("UserProfiles");
                 });
 
+            modelBuilder.Entity("ARS.Models.verificationCode", b =>
+                {
+                    b.Property<int>("vCodeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("vCodeId"));
+
+                    b.Property<string>("vCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("vCodeId");
+
+                    b.ToTable("verificationCodes");
+                });
+
             modelBuilder.Entity("ARS.Models.Airport", b =>
                 {
                     b.HasOne("ARS.Models.City", "City")

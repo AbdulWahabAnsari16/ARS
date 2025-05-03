@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ARS.Migrations
 {
     [DbContext(typeof(MainDbContext))]
-    [Migration("20250426212841_first")]
+    [Migration("20250503055809_first")]
     partial class first
     {
         /// <inheritdoc />
@@ -524,6 +524,23 @@ namespace ARS.Migrations
                     b.HasKey("UserId");
 
                     b.ToTable("UserProfiles");
+                });
+
+            modelBuilder.Entity("ARS.Models.verificationCode", b =>
+                {
+                    b.Property<int>("vCodeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("vCodeId"));
+
+                    b.Property<string>("vCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("vCodeId");
+
+                    b.ToTable("verificationCodes");
                 });
 
             modelBuilder.Entity("ARS.Models.Airport", b =>

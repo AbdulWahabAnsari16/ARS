@@ -117,6 +117,19 @@ namespace ARS.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "verificationCodes",
+                columns: table => new
+                {
+                    vCodeId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    vCode = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_verificationCodes", x => x.vCodeId);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Airports",
                 columns: table => new
                 {
@@ -489,6 +502,9 @@ namespace ARS.Migrations
 
             migrationBuilder.DropTable(
                 name: "UserProfiles");
+
+            migrationBuilder.DropTable(
+                name: "verificationCodes");
 
             migrationBuilder.DropTable(
                 name: "FlightSchedules");

@@ -18,13 +18,14 @@ namespace ARS.Models
 
         public DbSet<FlightSchedule> FlightSchedules { get; set; }
         public DbSet<ItinerarySegment> ItinerarySegments { get; set; }
+        public DbSet<MileageHistory> MileageHistories { get; set; }
         public DbSet<Passenger> Passengers { get; set; }
         public DbSet<Payment> Payments { get; set; }
         public DbSet<PricingRule> PricingRules { get; set; }
         public DbSet<Reservation> Reservations { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<UserProfile> UserProfiles { get; set; }
-        public DbSet<MileageHistory> MileageHistories { get; set; }
+        public DbSet<verificationCode> verificationCodes { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

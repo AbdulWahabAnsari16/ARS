@@ -1,14 +1,18 @@
 ﻿using ARS.Models;
+using ARS.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 
 namespace ARS.Controllers
 {
     public class UserController : Controller
     {
 		private readonly MainDbContext db;
+        private readonly EmailService email;
 
-        public UserController(MainDbContext db)
+        public UserController(MainDbContext db, EmailService e)
         {
+            email = e;
             this.db = db;
         }
 
@@ -97,8 +101,60 @@ namespace ARS.Controllers
             }
             return View();
         }
+        public IActionResult VerifyEmail()
+        {
+            return View();
+        }
+		[HttpPost]
+        public IActionResult VerifyEmail(User u)
+        {
+            var user = db.Users.Where(db => db.Email == u.Email).FirstOrDefault();
+            if (user != null)
+            {
+                string randomString = GenerateRandomString();
+                email.SendEmail(u.Email, "Code", $"Your Verification Code is {randomString}");
+                verificationCode newCode = new verificationCode
+                {
+                    vCode = randomString
+                };
+                TempData["userEmail"] = u.Email;
+                db.verificationCodes.Add(newCode);
+                db.SaveChanges();
+                return RedirectToAction("VerifyCode");
+            }
+            ViewBag.err = "Email does not exist in our database";
+            return View();
+        }
+        public static string GenerateRandomString(int length = 6)
+        {
+            const string characters = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            Random random = new Random();
+            char[] randomString = new char[length];
 
-		public IActionResult Logout()
+            for (int i = 0; i < length; i++)
+            {
+                randomString[i] = characters[random.Next(characters.Length)];
+            }
+
+            return new string(randomString);
+        }
+        public IActionResult VerifyCode()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult VerifyCode(verificationCode vcode)
+        {
+            var check = db.verificationCodes.Where(a => a.vCode == vcode.vCode).FirstOrDefault();
+            if (check != null)
+            {
+                return RedirectToAction("Index");
+            }
+            ViewBag.err = "VerificationCode does not exist in our database";
+            return View();
+        }
+
+        public IActionResult Logout()
 		{
 			HttpContext.Session.Clear();
 			return RedirectToAction("Index");
