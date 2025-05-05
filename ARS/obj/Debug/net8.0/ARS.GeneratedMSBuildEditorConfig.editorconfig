@@ -17,199 +17,205 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ARS
 build_property.RootNamespace = ARS
-build_property.ProjectDir = C:\Users\asp.APTECHNK1\Desktop\ARS\ARS\
+build_property.ProjectDir = C:\Users\Wahab\Desktop\ARS\ARS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\asp.APTECHNK1\Desktop\ARS\ARS
+build_property.MSBuildProjectDirectory = C:\Users\Wahab\Desktop\ARS\ARS
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddAirport.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddAirport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQWlycG9ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddCity.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddCity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2l0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddClass.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2xhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddCnclPolicy.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddCnclPolicy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ25jbFBvbGljeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddFlight.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddFlight.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRmxpZ2h0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddFltRoute.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddFltRoute.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRmx0Um91dGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddFltSchedule.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddFltSchedule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRmx0U2NoZWR1bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/AddPricingRule.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/AddPricingRule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUHJpY2luZ1J1bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditAirport.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditAirport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEFpcnBvcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditCity.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditCity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENpdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditClass.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENsYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditCnclPolicy.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditCnclPolicy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENuY2xQb2xpY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditFlight.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditFlight.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEZsaWdodC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditFltRoute.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditFltRoute.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEZsdFJvdXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditFltSchedule.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditFltSchedule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEZsdFNjaGVkdWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/EditPricingRule.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/EditPricingRule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFByaWNpbmdSdWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/Index.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/Login.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/Users.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/VewFlights.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/VewFlights.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmV3RmxpZ2h0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/ViewAirports.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/ViewAirports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0FpcnBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/ViewCities.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/ViewCities.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0NpdGllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/ViewClasses.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/ViewClasses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0NsYXNzZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/ViewCnclPolicies.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/ViewCnclPolicies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0NuY2xQb2xpY2llcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/ViewFltRoutes.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/ViewFltRoutes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0ZsdFJvdXRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/ViewFltSchedules.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/ViewFltSchedules.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0ZsdFNjaGVkdWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Admin/ViewPricingRules.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Admin/ViewPricingRules.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld1ByaWNpbmdSdWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Shared/Error.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/About.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/BlogHome.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/BlogHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCbG9nSG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/BlogSingle.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/BlogSingle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCbG9nU2luZ2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/Contact.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/Elements.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/Elements.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFbGVtZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/Hotels.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/ForgotPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGb3Jnb3RQYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/Hotels.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIb3RlbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/Index.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/Insurance.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/Insurance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbnN1cmFuY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/Login.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/Packages.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/Packages.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQYWNrYWdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/SignUp.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/VerifyCode.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/VerifyCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWZXJpZnlDb2RlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/User/VerifyEmail.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/User/VerifyEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWZXJpZnlFbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/_ViewImports.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/_ViewStart.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Shared/_Layout.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-60mgpf08h0
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-8nndqehjpq
 
-[C:/Users/asp.APTECHNK1/Desktop/ARS/ARS/Views/Shared/_LayoutUser.cshtml]
+[C:/Users/Wahab/Desktop/ARS/ARS/Views/Shared/_LayoutUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-wrskjwgtig

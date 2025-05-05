@@ -129,10 +129,11 @@
                 color: #ffc107;
                 text-decoration: none;
             }
-            .footer-text a:hover {
-                color: #000000;
-                text-decoration: none;
-            }
+
+                .footer-text a:hover {
+                    color: #000000;
+                    text-decoration: none;
+                }
 
 
         .fpass {
@@ -146,10 +147,11 @@
                 color: #000000;
                 text-decoration: none;
             }
-            .fpass a:hover {
-                color: #ffc107;
-                text-decoration: none;
-            }
+
+                .fpass a:hover {
+                    color: #ffc107;
+                    text-decoration: none;
+                }
 
         .error-box {
             background-color: #ffe0e0;
@@ -161,31 +163,23 @@
             text-align: center;
             margin-bottom: 1rem;
         }
-
-        .message-info {
-            text-align: center;
-            color: #555;
-            font-weight: 500;
-            font-size: 0.95rem;
-            margin-bottom: 1rem;
-        }
-
     </style>
 </head>
 <body>
     <div class="overlay"></div>
     <div class="container">
         <div class="logo"><h1>Travelista</h1></div>
-        <div class="title"><h2>Verify Email</h2></div>
+        <div class="title"><h2>Forgot Password</h2></div>
 
         <form method="post">
-            <p class="message-info">
-                Enter your user account's verified email address and we will send you a Verification Code.
-            </p>
+            <div class="input-group">
+                <label asp-for="Password">New Password</label>
+                <input type="password" asp-for="Password" name="NewPassword" placeholder="Enter New Password" required>
+            </div>
 
             <div class="input-group">
-                <label for="login-email">Email Address</label>
-                <input type="email" asp-for="Email" placeholder="you@example.com" required>
+                <label>Confirm Password</label>
+                <input type="password" name="ConfirmPassword" placeholder="Enter Confirm Password" required>
             </div>
 
             @if (!string.IsNullOrEmpty(ViewBag.err as string))
@@ -195,7 +189,7 @@
                 </div>
             }
 
-            <button type="submit" class="btn">Verify Email</button>
+            <button type="submit" class="btn">Update Password</button>
         </form>
 
         <p class="footer-text">

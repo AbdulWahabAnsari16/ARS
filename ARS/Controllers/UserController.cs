@@ -138,21 +138,62 @@ namespace ARS.Controllers
 
             return new string(randomString);
         }
+
         public IActionResult VerifyCode()
         {
             return View();
         }
         [HttpPost]
-        public IActionResult VerifyCode(verificationCode vcode)
+        public IActionResult VerifyCode(verificationCode code)
         {
-            var check = db.verificationCodes.Where(a => a.vCode == vcode.vCode).FirstOrDefault();
+            var check = db.verificationCodes.Where(db => db.vCode == code.vCode).FirstOrDefault();
             if (check != null)
             {
-                return RedirectToAction("Index");
+                return RedirectToAction("ForgotPass");
             }
             ViewBag.err = "VerificationCode does not exist in our database";
             return View();
         }
+
+        public IActionResult ForgotPass()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult ForgotPass(User pass)
+        {
+            string newPassword = Request.Form["NewPassword"];
+            string confirmPassword = Request.Form["ConfirmPassword"];
+            string userEmail = TempData["userEmail"] as string;
+
+            if (string.IsNullOrEmpty(userEmail))
+            {
+                ViewBag.err = "Email not found. Please request a password reset.";
+                return View();
+            }
+
+            if (newPassword != confirmPassword)
+            {
+                ViewBag.err = "Passwords do not match.";
+                TempData["userEmail"] = userEmail;
+                return View();
+            }
+
+            var user = db.Users.FirstOrDefault(u => u.Email == userEmail);
+            if (user == null)
+            {
+                ViewBag.err = $"User not found with the provided email: {userEmail}";
+                TempData["userEmail"] = userEmail;
+                return View();
+            }
+
+            user.Password = newPassword;
+            db.SaveChanges();
+
+            return RedirectToAction("Login");
+        }
+
+
 
         public IActionResult Logout()
 		{

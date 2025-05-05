@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-var cs = "Server=LAB12-40\\MSSQLSERVER_2;Initial Catalog=ARSDB;User ID=sa;Password=aptech;TrustServerCertificate=True";
+var cs = "Server=DESKTOP-4Q1702J;Initial Catalog=ARSDB;User ID=sa;Password=aptech;TrustServerCertificate=True";
 builder.Services.AddDbContext<MainDbContext>(a => a.UseSqlServer(cs));
 builder.Services.AddSession();
 builder.Services.AddTransient<EmailService>();

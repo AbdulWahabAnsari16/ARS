@@ -1,1220 +1,1224 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ARS.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ARS.bundle.scp.css"
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ARS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ARS.awe05uxrhv.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\chart-area-demo.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\chart-bar-demo.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\chart-pie-demo.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\datatables-demo.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\demo\\datatables-demo.js",
       "PackagePath": "staticwebassets\\AdminAssets\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\img\\error-404-monochrome.svg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\assets\\img\\error-404-monochrome.svg",
       "PackagePath": "staticwebassets\\AdminAssets\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\css\\styles.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\css\\styles.css",
       "PackagePath": "staticwebassets\\AdminAssets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\airportdatatable.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\airportdatatable.js",
       "PackagePath": "staticwebassets\\AdminAssets\\js\\airportdatatable.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\citydatatable.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\citydatatable.js",
       "PackagePath": "staticwebassets\\AdminAssets\\js\\citydatatable.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\datatables-simple.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\datatables-simple.js",
       "PackagePath": "staticwebassets\\AdminAssets\\js\\datatables-simple.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\scripts.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\AdminAssets\\js\\scripts.js",
       "PackagePath": "staticwebassets\\AdminAssets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\animate.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap.map",
       "PackagePath": "staticwebassets\\UserAssets\\css\\bootstrap.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\bootstrap\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\bootstrap\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap\\bootstrap.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\bootstrap\\bootstrap.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\bootstrap\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\jquery-ui.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\jquery-ui.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\linearicons.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\linearicons.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\linearicons.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\main.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\main.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\main.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\main.map",
       "PackagePath": "staticwebassets\\UserAssets\\css\\main.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\nice-select.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\owl.carousel.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\css\\owl.carousel.css",
       "PackagePath": "staticwebassets\\UserAssets\\css\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.eot",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.eot",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\Linearicons-Free.eot"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.svg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.svg",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\Linearicons-Free.svg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.ttf",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.ttf",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\Linearicons-Free.ttf"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.woff",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.woff",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\Linearicons-Free.woff"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.woff2",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\Linearicons-Free.woff2",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\Linearicons-Free.woff2"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\UserAssets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\about-img.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\about-img.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\about\\info-img.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\about\\info-img.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\about\\info-img.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\b1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\b1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\b1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\b2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\b2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\b2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\b3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\b3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\b3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\ads-banner.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\ads-banner.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\ads-banner.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\blog-home-banner.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\blog-home-banner.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\blog-home-banner.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\c1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\c2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\c3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\c4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c5.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c5.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\c5.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c6.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\c6.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\c6.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\cat-widget1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\cat-widget1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\cat-widget1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\cat-widget2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\cat-widget2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\cat-widget2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\cat-widget3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\cat-widget3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\cat-widget3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\feature-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\feature-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\feature-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\feature-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img5.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\feature-img5.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\feature-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\next.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\next.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\next.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\post-img1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\post-img1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\post-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\post-img2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\post-img2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\post-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\pp1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\pp2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\pp3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\pp4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\pp4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\prev.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\prev.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\prev.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\s-img.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\s-img.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\s-img.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\user-info.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\blog\\user-info.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\blog\\user-info.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\d1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\d1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\d1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\d2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\d2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\d2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\d3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\d3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\d3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\a.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\a.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\a2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\a2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\a2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\d.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\d.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\d.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\disabled-check.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\disabled-check.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\disabled-check.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\disabled-radio.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\disabled-radio.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\disabled-radio.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f5.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f5.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f5.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f6.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f6.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f6.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f7.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f7.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f7.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f8.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\f8.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\f8.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g5.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g5.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g5.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g6.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g6.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g6.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g7.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g7.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g7.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g8.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\g8.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\g8.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\primary-check.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\primary-check.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\primary-check.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\primary-radio.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\primary-radio.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\primary-radio.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\success-check.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\success-check.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\success-check.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\success-radio.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\success-radio.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\success-radio.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\user1.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\user1.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\user1.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\user2.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\elements\\user2.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\elements\\user2.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hero-bg.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hero-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\about-img.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\about-img.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hotels\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hotels\\d1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hotels\\d2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hotels\\d3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hotels\\d4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d5.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d5.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hotels\\d5.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d6.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\hotels\\d6.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\hotels\\d6.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i5.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i5.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i5.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i6.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i6.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i6.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i7.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i7.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i7.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i8.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\i8.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\i8.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\insurence\\bullet.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\insurence\\bullet.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\insurence\\bullet.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\insurence\\i1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\insurence\\i1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\insurence\\i1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\insurence\\i2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\insurence\\i2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\insurence\\i2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\loginimg.jfif",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\loginimg.jfif",
       "PackagePath": "staticwebassets\\UserAssets\\img\\loginimg.jfif"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\logo.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\logo.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\o1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\o2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\o3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\o4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\o4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\about-img.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\about-img.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d1.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d1.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\d1.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d2.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d2.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\d2.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d3.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d3.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\d3.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d4.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d4.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\d4.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d5.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d5.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\d5.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d6.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\d6.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\d6.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\hot-deal.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\packages\\hot-deal.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\packages\\hot-deal.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\price-bg.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\price-bg.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\price-bg.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\top-banner.jpg",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\top-banner.jpg",
       "PackagePath": "staticwebassets\\UserAssets\\img\\top-banner.jpg"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\ui-icons_444444_256x240.png",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\img\\ui-icons_444444_256x240.png",
       "PackagePath": "staticwebassets\\UserAssets\\img\\ui-icons_444444_256x240.png"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\easing.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\easing.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\hoverIntent.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\hoverIntent.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\hoverIntent.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery-ui.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery-ui.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\jquery-ui.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery.ajaxchimp.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery.ajaxchimp.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery.nice-select.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\mail-script.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\mail-script.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\mail-script.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\main.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\main.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\popper.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\superfish.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\superfish.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\superfish.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\vendor\\bootstrap.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\vendor\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\vendor\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\vendor\\jquery-2.2.4.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\js\\vendor\\jquery-2.2.4.min.js",
       "PackagePath": "staticwebassets\\UserAssets\\js\\vendor\\jquery-2.2.4.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_alert.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_alert.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_badge.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_badge.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_breadcrumb.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_button-group.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_button-group.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_buttons.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_buttons.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_card.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_card.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_carousel.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_carousel.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_close.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_close.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_code.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_code.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_custom-forms.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_dropdown.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_dropdown.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_forms.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_forms.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_functions.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_functions.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_grid.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_grid.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_images.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_images.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_input-group.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_input-group.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_jumbotron.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_jumbotron.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_list-group.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_list-group.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_media.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_media.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_mixins.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_mixins.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_modal.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_modal.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_nav.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_nav.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_navbar.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_navbar.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_pagination.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_pagination.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_popover.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_popover.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_print.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_print.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_progress.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_progress.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_reboot.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_reboot.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_root.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_root.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_tables.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_tables.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_tooltip.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_tooltip.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_transitions.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_transitions.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_type.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_type.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_utilities.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_utilities.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_variables.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\bootstrap.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\bootstrap.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_background-variant.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_badge.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_float.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_float.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_grid-framework.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_hover.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_image.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_nav-divider.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_navbar-align.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_navbar-align.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_navbar-align.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_size.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_size.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_table-row.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_text-hide.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\mixins\\_visibility.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_align.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_align.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_background.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_background.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_borders.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_borders.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_clearfix.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_display.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_display.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_embed.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_embed.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_flex.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_flex.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_float.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_float.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_position.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_position.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_screenreaders.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_sizing.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_spacing.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_text.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\bootstrap\\utilities\\_visibility.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\main.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\main.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\main.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_about.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_about.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_about.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_blog.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_blog.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_contact.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_contact.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_contact.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_elements.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_elements.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_elements.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_flexbox.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_flexbox.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_flexbox.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_footer.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_footer.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_header.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_header.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_home.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_home.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_home.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_insurence.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_insurence.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_insurence.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_mixins.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_mixins.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_packages.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_packages.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_packages.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_reset.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_reset.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_reset.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_variables.scss",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\UserAssets\\scss\\theme\\_variables.scss",
       "PackagePath": "staticwebassets\\UserAssets\\scss\\theme\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ARS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ARS.Microsoft.AspNetCore.StaticWebAssets.props",
