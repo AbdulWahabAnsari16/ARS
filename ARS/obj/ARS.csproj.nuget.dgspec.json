@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\ARS.csproj": {}
+    "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\ARS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\ARS.csproj": {
+    "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\ARS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\ARS.csproj",
+        "projectUniqueName": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\ARS.csproj",
         "projectName": "ARS",
-        "projectPath": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\ARS.csproj",
-        "packagesPath": "C:\\Users\\Wahab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\obj\\",
+        "projectPath": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\ARS.csproj",
+        "packagesPath": "C:\\Users\\asp.APTECHNK1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asp.APTECHNK1\\Desktop\\ARS\\ARS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Wahab\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\asp.APTECHNK1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +42,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -84,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

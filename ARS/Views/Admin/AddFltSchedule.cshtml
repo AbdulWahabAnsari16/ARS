@@ -25,14 +25,6 @@
 
                         <div class="col-md-6">
                             <div class="form-floating mb-3 mb-md-0">
-                                <select asp-for="DepartureAirportId" asp-items="@ViewBag.Airports" class="form-select mt-2">
-                                    <option>Select a Departure Airport</option>
-                                </select>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6">
-                            <div class="form-floating mb-3 mb-md-0">
                                 <select asp-for="ArrivalAirportId" asp-items="@ViewBag.Airports" class="form-select mt-2">
                                     <option>Select a Arrival Airport</option>
                                 </select>
@@ -41,8 +33,9 @@
 
                         <div class="col-md-6">
                             <div class="form-floating mb-3 mb-md-0">
-                                <input class="form-control mt-2" type="datetime-local" placeholder="Enter Departure DateTime" asp-for="DepartureDateTime" />
-                                <label asp-for="DepartureDateTime">Departure DateTime</label>
+                                <select asp-for="DepartureAirportId" asp-items="@ViewBag.Airports" class="form-select mt-2">
+                                    <option>Select a Departure Airport</option>
+                                </select>
                             </div>
                         </div>
 
@@ -50,6 +43,13 @@
                             <div class="form-floating mb-3 mb-md-0">
                                 <input class="form-control mt-2" type="datetime-local" placeholder="Enter Arrival DateTime" asp-for="ArrivalDateTime" />
                                 <label asp-for="ArrivalDateTime">Arrival DateTime</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-floating mb-3 mb-md-0">
+                                <input class="form-control mt-2" type="datetime-local" placeholder="Enter Departure DateTime" asp-for="DepartureDateTime" />
+                                <label asp-for="DepartureDateTime">Departure DateTime</label>
                             </div>
                         </div>
 
