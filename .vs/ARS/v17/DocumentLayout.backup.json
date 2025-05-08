@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wahab\\Desktop\\ARS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|c:\\users\\wahab\\desktop\\ars\\ars\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|solutionrelative:ars\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|c:\\users\\wahab\\desktop\\ars\\ars\\views\\admin\\viewfltschedules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|solutionrelative:ars\\views\\admin\\viewfltschedules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|c:\\users\\wahab\\desktop\\ars\\ars\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|solutionrelative:ars\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|c:\\users\\wahab\\desktop\\ars\\ars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|solutionrelative:ars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|c:\\users\\wahab\\desktop\\ars\\ars\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4BA010-080C-458D-8923-BC422CF7E8F7}|ARS\\ARS.csproj|solutionrelative:ars\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ARS\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ARS\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwIIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:19:46.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewFltSchedules.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Views\\Admin\\ViewFltSchedules.cshtml",
+              "RelativeDocumentMoniker": "ARS\\Views\\Admin\\ViewFltSchedules.cshtml",
+              "ToolTip": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Views\\Admin\\ViewFltSchedules.cshtml",
+              "RelativeToolTip": "ARS\\Views\\Admin\\ViewFltSchedules.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:20:38.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "ARS\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "ARS\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T13:25:21.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Program.cs",
+              "RelativeDocumentMoniker": "ARS\\Program.cs",
+              "ToolTip": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Program.cs",
+              "RelativeToolTip": "ARS\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:17:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ARS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Wahab\\Desktop\\ARS\\ARS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ARS\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:17:37.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
